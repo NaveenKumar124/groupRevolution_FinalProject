@@ -14,6 +14,8 @@
 		4F695ABA249F040300ECB91F /* groupRevolution_FinalProject.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 4F695AB8249F040300ECB91F /* groupRevolution_FinalProject.xcdatamodeld */; };
 		4F695ABC249F040900ECB91F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4F695ABB249F040900ECB91F /* Assets.xcassets */; };
 		4F695ABF249F040900ECB91F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4F695ABD249F040900ECB91F /* LaunchScreen.storyboard */; };
+		4F695AC7249F1CA100ECB91F /* NoteViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F695AC6249F1CA100ECB91F /* NoteViewController.swift */; };
+		4F695AC9249F1CD400ECB91F /* EntryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F695AC8249F1CD400ECB91F /* EntryViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		4F695ABB249F040900ECB91F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4F695ABE249F040900ECB91F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4F695AC0249F040900ECB91F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4F695AC6249F1CA100ECB91F /* NoteViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoteViewController.swift; sourceTree = "<group>"; };
+		4F695AC8249F1CD400ECB91F /* EntryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EntryViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +70,8 @@
 				4F695ABD249F040900ECB91F /* LaunchScreen.storyboard */,
 				4F695AC0249F040900ECB91F /* Info.plist */,
 				4F695AB8249F040300ECB91F /* groupRevolution_FinalProject.xcdatamodeld */,
+				4F695AC6249F1CA100ECB91F /* NoteViewController.swift */,
+				4F695AC8249F1CD400ECB91F /* EntryViewController.swift */,
 			);
 			path = groupRevolution_FinalProject;
 			sourceTree = "<group>";
@@ -144,7 +150,9 @@
 				4F695AB4249F040300ECB91F /* ViewController.swift in Sources */,
 				4F695ABA249F040300ECB91F /* groupRevolution_FinalProject.xcdatamodeld in Sources */,
 				4F695AB0249F040300ECB91F /* AppDelegate.swift in Sources */,
+				4F695AC7249F1CA100ECB91F /* NoteViewController.swift in Sources */,
 				4F695AB2249F040300ECB91F /* SceneDelegate.swift in Sources */,
+				4F695AC9249F1CD400ECB91F /* EntryViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
